@@ -1,0 +1,916 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GreenPoint-GDSPRO
+</name>
+</assembly>
+<members>
+<member name="T:GDSPRO.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GDSPRO.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GDSPRO.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:GDSPRO.My.Resources.Resources.Untitled_blue_OK_copy5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.AccountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.BranchDataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.BranchPCsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ContactsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.DepartmentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.EmployeeAttendanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.EmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ErrorLogDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.IssueChequesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.IssueOwnChequesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Item_SuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ItemCollectionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ItemsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.JournalMainDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.JournalSubDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.MenuListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PayMainDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PaySubDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PriceChangeLogDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.RemindersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Stock_BalanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Sub_CatagoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.TransacitonSubDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.TransactionMainDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UpdateLogDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UserListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UserLogDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UserPermissionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Account_Statement_TransactionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_Transaction_SubDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_Journal_DataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Store_LocationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_BinCardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Stock_Item_Search_ViewDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_Transaction_sub_TFRDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_PODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Sub_DepartmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.CatagoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Bar_Code_ListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Barcode_LabelsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Measure_UnitsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PO_ConceptsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PO_Temp_EditDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.SaleAssistantDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.AccountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.BranchDataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.BranchPCsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ContactsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.DepartmentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.EmployeeAttendanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.EmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ErrorLogRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.IssueChequesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.IssueOwnChequesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Item_SuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ItemCollectionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ItemsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.JournalMainRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.JournalSubRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.MenuListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PayMainRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PaySubRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PriceChangeLogRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.RemindersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Stock_BalanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Sub_CatagoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.TransacitonSubRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.TransactionMainRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UpdateLogRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UserListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UserLogRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UserPermissionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Account_Statement_TransactionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_Transaction_SubRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_Journal_DataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Store_LocationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_BinCardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Stock_Item_Search_ViewRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_Transaction_sub_TFRRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_PORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Sub_DepartmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.CatagoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Bar_Code_ListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Barcode_LabelsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Measure_UnitsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PO_ConceptsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PO_Temp_EditRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.SaleAssistantRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.AccountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.BranchDataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.BranchPCsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ContactsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.DepartmentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.EmployeeAttendanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.EmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ErrorLogRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.IssueChequesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.IssueOwnChequesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Item_SuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ItemCollectionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.ItemsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.JournalMainRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.JournalSubRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.MenuListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PayMainRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PaySubRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PriceChangeLogRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.RemindersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Stock_BalanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Sub_CatagoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.TransacitonSubRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.TransactionMainRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UpdateLogRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UserListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UserLogRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.UserPermissionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Account_Statement_TransactionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_Transaction_SubRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_Journal_DataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Store_LocationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_BinCardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Stock_Item_Search_ViewRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_Transaction_sub_TFRRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Temp_PORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Sub_DepartmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.CatagoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Bar_Code_ListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Barcode_LabelsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.Measure_UnitsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PO_ConceptsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.PO_Temp_EditRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSet.SaleAssistantRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.AccountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.BranchDataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.BranchPCsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.ContactsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.DepartmentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.EmployeeAttendanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.EmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.ErrorLogTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.IssueChequesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.IssueOwnChequesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Item_SuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.ItemCollectionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.ItemsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.JournalMainTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.JournalSubTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.MenuListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.PayMainTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.PaySubTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.PriceChangeLogTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.RemindersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Stock_BalanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Sub_CatagoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.TransacitonSubTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.TransactionMainTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.UpdateLogTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.UserListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.UserLogTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.UserPermissionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Account_Statement_TransactionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Temp_Transaction_SubTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Temp_Journal_DataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Store_LocationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Temp_BinCardTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Stock_Item_Search_ViewTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Temp_Transaction_sub_TFRTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Temp_POTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Sub_DepartmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.CatagoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Bar_Code_ListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Barcode_LabelsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.Measure_UnitsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.PO_ConceptsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.PO_Temp_EditTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GDSPRO.GreenPointDataSetTableAdapters.SaleAssistantTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>
